@@ -1,1 +1,5 @@
+lead_id,email,email_bounced,utm_source,created_at
+101,alex@example.com,false,google,2025-07-01T12:30:00Z
+102,beth@example.com,true,facebook,2025-07-01T13:05:00Z
+103,cara@example.com,false,newsletter,2025-07-02T09:00:00Z
 
