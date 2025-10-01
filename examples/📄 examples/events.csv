@@ -1,0 +1,4 @@
+lead_id,event_type,event_time
+101,email_open,2025-07-01T15:00:00Z
+101,email_click,2025-07-01T15:01:00Z
+103,email_open,2025-07-02T12:00:00Z
