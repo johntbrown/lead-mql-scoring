@@ -1,0 +1,14 @@
+
+---
+
+### 4. Push to GitHub
+
+On your machine:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit: Lead MQL scoring toolkit"
+git branch -M main
+git remote add origin git@github.com:YOURUSERNAME/lead-mql-scoring.git
+git push -u origin main
