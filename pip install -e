@@ -1,0 +1,19 @@
+lead-mql-scoring/
+│
+├── README.md
+├── LICENSE
+├── sql/
+│   ├── postgres.sql
+│   └── bigquery.sql
+├── examples/
+│   ├── leads.csv
+│   └── events.csv
+│
+├── src/
+│   └── lead_mql_scoring/
+│       ├── __init__.py
+│       ├── __main__.py
+│       └── score_leads.py
+│
+├── pyproject.toml
+└── README_PYPI.md
